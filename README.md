@@ -1,6 +1,6 @@
-# TinDog Repository Readme
+# TinDog Repo
 
-Welcome to the TinDog repository! TinDog is a fun and playful website that helps you meet new and interesting dogs nearby. This repository contains the HTML and CSS code for the TinDog website. 
+Welcome to the TinDog repository!. TinDog is a fun and playful website that helps you meet new and interesting dogs nearby. This repository contains the HTML and CSS code for the TinDog website. 
 
 ## Table of Contents
 
@@ -12,6 +12,8 @@ Welcome to the TinDog repository! TinDog is a fun and playful website that helps
 ## Introduction
 
 TinDog is a website designed to help you find and connect with dogs in your area. It's easy to use and comes with a range of features to make your doggy matchmaking experience enjoyable.
+
+This is a project I had done on my full stack Journey With the course of angela Yu in Udemy. 
 
 ### Technologies Used
 - HTML5
